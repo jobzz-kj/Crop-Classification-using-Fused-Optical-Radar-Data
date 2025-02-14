@@ -191,7 +191,6 @@ xgboost==2.1.2
 
 ## Acknowledgements
 - UCI Machine Learning Repository for dataset
-- Virginia Tech's Cloud Computing Course for guidance
 
 ## License
 This project is licensed under the MIT License.
